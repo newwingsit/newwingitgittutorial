@@ -1,0 +1,7 @@
+This is the first file of fileone.txt
+
+And I am conflicting the issues.
+
+Adding the changes to create a conflict.
+
+// the new changes will come here..
