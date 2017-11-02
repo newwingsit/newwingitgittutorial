@@ -7,7 +7,5 @@ Adding the changes deleted some content in this line
 if (flag){
    statements;;;;
 }else {
-    // statement...
+    // statement..
 }
-
-// the new changes will come here..
