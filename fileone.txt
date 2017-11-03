@@ -4,4 +4,11 @@ And I am conflicting the issues.
 
 Adding the changes to create a conflict.
 
-// the new changes will come here..
+// the new changes will come here...
+adding the changes deleted some content in this line
+
+if (flag){
+  statement;;;;
+  }else {
+    //statement...
+    }
