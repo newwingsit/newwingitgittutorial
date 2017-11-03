@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the first file of fileone.txt
 
 And I am conflicting the issues.
@@ -12,3 +13,16 @@ if (flag){
   }else {
     //statement...
     }
+=======
+This is first file of fileone.txt.
+
+And i am conflicting the issues of this file.
+
+Adding the changes deleted some content in this line
+
+if (flag){
+   statements;;;;
+}else {
+    // statement..
+}
+>>>>>>> f78c7a7f5735e028565a37bf5e3251a76149edcb

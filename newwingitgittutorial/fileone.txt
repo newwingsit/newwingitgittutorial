@@ -1,0 +1,11 @@
+This is first file of fileone.txt.
+
+And i am conflicting the issues of this file.
+
+Adding the changes deleted some content in this line
+
+if (flag){
+   statements;;;;
+}else {
+    // statement..
+}
